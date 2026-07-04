@@ -21,7 +21,9 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+<details>
+<summary><b>⚡ Languages & Frameworks</b></summary>
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,14 +35,22 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Databases & ORMs**
+</details>
+
+<details>
+<summary><b>🗄️ Databases & ORMs</b></summary>
+<br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**AI, ML & Agents**
+</details>
+
+<details>
+<summary><b>🤖 AI, ML & Agents</b></summary>
+<br/>
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-632148?style=for-the-badge&logo=robotframework&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-B18FA2?style=for-the-badge)
@@ -53,32 +63,50 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-8A2BE2?style=for-the-badge)
 
-**Data Analysis**
+</details>
+
+<details>
+<summary><b>📊 Data Analysis</b></summary>
+<br/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Data_Visualization-11557C?style=for-the-badge)
 
-**Cloud & DevOps**
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-**Product & Process**
+</details>
+
+<details>
+<summary><b>📋 Product & Process</b></summary>
+<br/>
 
 ![Product Management](https://img.shields.io/badge/Product_Management-632148?style=for-the-badge&logo=trello&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Tools I Work With**
+</details>
+
+<details>
+<summary><b>🧰 Tools I Work With</b></summary>
+<br/>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,express,react,remix,nextjs,flutter,dart,postgres,prisma,supabase,docker,azure,gcp,vercel,git,github,vscode,figma,tailwind&perline=11" />
 
 </div>
+
+</details>
 
 ## 🌟 Featured Projects
 
@@ -92,6 +120,10 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 
 ## 📊 GitHub Stats
 
+<details open>
+<summary><b>⚡ Stats & Streaks</b></summary>
+<br/>
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Susankemigisa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&icon_color=632148&text_color=FFFCFC" height="165" />
@@ -99,7 +131,15 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susankemigisa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&text_color=FFFCFC" height="140" />
 
+</div>
+
+</details>
+
+<details>
+<summary><b>📈 Profile Summary</b></summary>
 <br/>
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susankemigisa&theme=nord_dark" width="100%" />
 
@@ -107,6 +147,8 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Susankemigisa&theme=nord_dark" height="150" />
 
 </div>
+
+</details>
 
 ## 🤝 Connect With Me
 
