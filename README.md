@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:033E5B,50:632148,100:B18FA2&height=200&section=header&text=Suzan%20Kemigisa&fontSize=50&fontColor=FFFCFC&animation=fadeIn&fontAlignY=35&desc=Software%20%26%20AI%20Engineer&descSize=20&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B18FA2&center=true&vCenter=true&width=600&lines=Full-Stack+TypeScript+Engineer;AI+Agents+%2B+RAG+Systems+Builder;ML+%2B+NLP+%2B+Deep+Learning;Building+Tech+for+Global+Impact;Solo+Founder+%40+FinAdvisor+AI)](https://github.com/Susankemigisa)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=B18FA2&center=true&vCenter=true&width=600&lines=Full-Stack+TypeScript+Engineer;AI+Agents+%2B+RAG+Systems+Builder;ML+%2B+NLP+%2B+Deep+Learning;Building+Tech+for+Global+Impact;Solo+Founder+%40+FinAdvisor+AI)](https://github.com/Suzankemigisa)
 
 </div>
 
@@ -126,10 +126,10 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Susankemigisa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&icon_color=632148&text_color=FFFCFC" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Susankemigisa&theme=midnight-purple&hide_border=true&background=040B14&ring=B18FA2&fire=632148&currStreakLabel=FFFCFC" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Suzankemigisa&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&icon_color=632148&text_color=FFFCFC" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suzankemigisa&theme=midnight-purple&hide_border=true&background=040B14&ring=B18FA2&fire=632148&currStreakLabel=FFFCFC" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Susankemigisa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&text_color=FFFCFC" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suzankemigisa&layout=compact&theme=midnight-purple&hide_border=true&bg_color=040B14&title_color=B18FA2&text_color=FFFCFC" height="140" />
 
 </div>
 
@@ -141,10 +141,10 @@ I'm a **Software & AI Engineer** based in Kampala, Uganda 🇺🇬 — I build g
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Susankemigisa&theme=nord_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suzankemigisa&theme=nord_dark" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Susankemigisa&theme=nord_dark" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Susankemigisa&theme=nord_dark" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suzankemigisa&theme=nord_dark" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suzankemigisa&theme=nord_dark" height="150" />
 
 </div>
 
