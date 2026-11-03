@@ -13,9 +13,6 @@
 <a href="https://x.com/kemigisa_susan"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://suzan-kemigisa-portfolio-owm7co5ro-kemigisa32-3838s-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-B18FA2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Suzankemigisa&label=Profile%20views&color=632148&style=for-the-badge" alt="Profile views" />
 
 </div>
 
