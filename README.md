@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:632148,100:040B14&height=200&section=header&text=Suzan%20Kemigisa&fontSize=56&fontColor=FFFCFC&fontAlignY=38&desc=Software%20%26%20AI%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:632148,100:040B14&height=200&section=header&text=Suzan%20Kemigisa&fontSize=56&fontColor=FFFCFC&fontAlignY=38&desc=Software%20and%20AI%20Engineer&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/Suzankemigisa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=B18FA2&center=true&vCenter=true&width=700&lines=AI+Agents+%7C+RAG+%7C+NLP;Full-Stack+Engineering;Building+software+that+works+where+it's+needed+most" alt="Typing SVG" />
