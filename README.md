@@ -22,7 +22,6 @@ I'm a **Software & AI Engineer** and **solo founder of FinAdvisor AI**, based in
 I ship AI products end-to-end, from database schema to polished UI, including ones that run over USSD with no internet required.
 
 My work covers **AI agents, RAG pipelines, NLP systems**, ML with PyTorch, and full-stack TypeScript.
-I led an 8-person hackathon team building **MamaCare**, AI maternal health assistance over USSD/SMS/Voice.
 
 ---
 
