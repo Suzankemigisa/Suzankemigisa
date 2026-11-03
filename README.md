@@ -83,6 +83,8 @@ I led an 8-person hackathon team building **MamaCare**, AI maternal health assis
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suzankemigisa&bg_color=040B14&color=B18FA2&line=632148&point=FFFCFC&area=true&area_color=632148&hide_border=true" />
 
+<img src="./assets/activity-cross.svg" alt="Activity overview" />
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suzankemigisa&theme=nord_dark" />
 
 </div>
